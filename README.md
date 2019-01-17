@@ -1,4 +1,6 @@
 # Web-Interface-An-AuctionBase-System-Given-a-decade-s-eBay-transaction-data-
+@Author: Yifan Mei & Meiliu Wu
+
 1. Loaded a decade’s eBay transaction data in JSON (in the directory "ebay-data") form into a self-designed SQLite database (by running "runparser.sh" in the directory "create_auctionbase") following ER design model. 
 
 2. By running "auctionbase.py", generated dynamic HTML pages(in the directory "templates") for an AuctionBase system over the database. 
